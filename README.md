@@ -23,12 +23,15 @@ Project ini memiliki tujuan untuk membantu pakar batu agar dapat lebih cepat dan
 Pelatihan dan validasi model dilakukan secara cross validation untuk menghindari overfitting dan membuat model mampu menangani data yang lebih general.
 ### Sebelum Augmentasi dan Preprocessing
 ![image](https://github.com/OrionSeeker/ProjectPCD-Klasifikasi-Batuan-Alam/assets/143796680/570877c3-4b8f-4328-b057-73467957c4b3)
+
 Dapat dilihat bahwa akurasi tertinggi untuk percobaan tanpa augmentasi dan tanpa preprocessing dipegang oleh model Random Forest (37,3%)
 
 ### Sesudah Augmentasi dan Sebelum Preprocessing
 ![image](https://github.com/OrionSeeker/ProjectPCD-Klasifikasi-Batuan-Alam/assets/143796680/a1ed6eda-7d0e-4467-85b5-8a52328a5b73)
+
 Dapat dilihat bahwa akurasi tertinggi untuk percobaan dengan augmentasi dan tanpa preprocessing dipegang oleh model Random Forest (61%)
 
 ### Sesudah Augmentasi dan Preprocessing
 ![image](https://github.com/OrionSeeker/ProjectPCD-Klasifikasi-Batuan-Alam/assets/143796680/a37becf3-36a8-4348-9495-5c7044d43749)
+
 Dapat dilihat bahwa akurasi tertinggi untuk percobaan dengan augmentasi dan dengan preprocessing dipegang oleh model Random Forest (72,6%)
