@@ -8,6 +8,9 @@ Project ini memiliki tujuan untuk membantu pakar batu agar dapat lebih cepat dan
 4. Ridho Adhimam Putra (F1D022090)
 5. Agus Gunawan (F1D020002)
 
+## Dataset
+Dataset diambil dari Kaggle, yaitu https://www.kaggle.com/datasets/salmaneunus/rock-classification
+
 ## Augmentasi yang Digunakan
 - Rotasi sudut 90, 180, dan 270 derajat
 - Pencerminan sumbu x, sumbu y, dan sumbu x dan y
